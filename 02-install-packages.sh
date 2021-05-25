@@ -5,12 +5,13 @@ Packages=(
     ## Core
     terminator
     tmux
-    nerd-fonts-iosevka
+    flatpak
+#    nerd-fonts-iosevka
 
     ## emacs
- #   emacs
- #   hunspell-fr
- #   hunspell-en_us
+     emacs
+     hunspell-fr
+     hunspell-en-us
 
     ## KBD
     xcape
@@ -38,7 +39,6 @@ Packages=(
 
     ## Multimedia
 #    vlc
-#    spotify
 )
 
 
@@ -46,3 +46,7 @@ Packages=(
 for pkg in "${Packages[@]}"; do
     sudo apt install -y $pkg
 done
+
+flatpak remote-add --user --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+
+echo You need to restart before installation of FLATPAK packages
