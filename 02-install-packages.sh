@@ -10,8 +10,8 @@ Packages=(
 
     ## emacs
 #     emacs
-     hunspell-fr
-     hunspell-en-us
+#     hunspell-fr
+#     hunspell-en-us
 
     ## KBD
     xcape

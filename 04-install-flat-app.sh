@@ -2,7 +2,6 @@
 
 FlatPackages=(
     com.spotify.Client
-    org.gnu.emacs
     org.videolan.VLC
     org.inkscape.Inkscape
 )
