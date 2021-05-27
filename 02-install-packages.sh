@@ -9,7 +9,7 @@ Packages=(
 #    nerd-fonts-iosevka
 
     ## emacs
-     emacs
+#     emacs
      hunspell-fr
      hunspell-en-us
 
