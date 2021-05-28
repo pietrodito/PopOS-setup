@@ -6,7 +6,6 @@ Packages=(
     terminator
     tmux
     flatpak
-    snapd
 #    nerd-fonts-iosevka
 
     ## emacs
