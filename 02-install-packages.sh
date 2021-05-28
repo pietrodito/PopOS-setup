@@ -8,6 +8,12 @@ Packages=(
     flatpak
 #    nerd-fonts-iosevka
 
+    ## fun
+    cowsay
+    lolcat
+    fortune
+    fortunes-min
+
     ## emacs
 #     emacs
 #     hunspell-fr
