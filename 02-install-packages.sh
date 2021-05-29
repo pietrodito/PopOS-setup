@@ -5,7 +5,7 @@ Packages=(
     ## Core
     terminator
     tmux
-    flatpak
+    snapd
 #    nerd-fonts-iosevka
 
     ## fun
