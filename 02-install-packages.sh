@@ -21,7 +21,7 @@ Packages=(
 
     ## KBD
     xcape
- #   autokey-patched
+    autokey-gtk
 
     ## CLI
     peco
