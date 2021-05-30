@@ -5,6 +5,7 @@ Packages=(
     ## Core
     terminator
     tmux
+      xclip ## needed for tmux yank
     snapd
 #    nerd-fonts-iosevka
 
