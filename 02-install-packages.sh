@@ -37,7 +37,6 @@ Packages=(
     ## Documents
 #    pandoc
 #    texlive-most
-#    nextcloud-client
 #    remarkable-client
 #    libreoffice-fresh
 #    zotero

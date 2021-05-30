@@ -4,6 +4,7 @@ FlatPackages=(
     spotify
     vlc
     inkscape
+    nextcloud
 )
 
 # Helper to install the packages listed above
