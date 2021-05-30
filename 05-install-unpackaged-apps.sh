@@ -7,6 +7,7 @@ unzip exa-linux-x86_64-v0.10.0.zip
 cp $DWNLD_DIR/bin/exa ~/bin/
 cp $DWNLD_DIR/completions/exa.zsh ~/.zsh_user
 
+rm -rf $DWNLD_DIR
 
 
 

@@ -1,18 +1,26 @@
-## Doom emacs
+# Doom emacs
 
-+ bleeding edge git needed
-```
-sudo add-apt-repository ppa:git-core/ppa
-```
+## install emacs from snap
 
-+ Other tools
-```
-sudo apt install -y fd-find ripgrep 
-```
+    snap install emacs --classic
 
-+ bleeding edge emacs recommanded (using snap)
+## bleeding edge git needed
 
-+ Add doom dir to the path
-```
-export PATH="$HOME/.emacs.d/bin:$PATH"
-```
+    sudo add-apt-repository ppa:git-core/ppa
+    sudo apt update && sudo apt upgrade -y
+
+## Other tools
+
+    sudo apt install -y fd-find ripgrep 
+
+## Install doom
+
+    git clone --depth 1 https://github.com/hlissner/doom-emacs ~/.emacs.d
+
+## Add doom dir to the path
+
++ Done in `~/.zshrc`
+
+## Setup doom
+
+    doom install
