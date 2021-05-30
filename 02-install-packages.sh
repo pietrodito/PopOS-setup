@@ -7,7 +7,7 @@ Packages=(
     tmux
       xclip ## needed for tmux yank
     snapd
-#    nerd-fonts-iosevka
+    fonts-firacode
 
     ## fun
     cowsay
@@ -16,7 +16,6 @@ Packages=(
     fortunes-min
 
     ## emacs
-#     emacs
 #     hunspell-fr
 #     hunspell-en-us
 
@@ -41,11 +40,8 @@ Packages=(
 #    nextcloud-client
 #    remarkable-client
 #    libreoffice-fresh
-#    inkscape
 #    zotero
 
-    ## Multimedia
-#    vlc
 )
 
 
