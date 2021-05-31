@@ -5,7 +5,7 @@ wget https://github.com/ogham/exa/releases/download/v0.10.0/exa-linux-x86_64-v0.
 cd $DWNLD_DIR
 unzip exa-linux-x86_64-v0.10.0.zip
 cp $DWNLD_DIR/bin/exa ~/bin/
-cp $DWNLD_DIR/completions/exa.zsh ~/.zsh_user
+sudo cp $DWNLD_DIR/completions/exa.zsh /usr/local/share/zsh/site-functions
 
 rm -rf $DWNLD_DIR
 
