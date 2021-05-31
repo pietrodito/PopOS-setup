@@ -38,8 +38,8 @@ Packages=(
 #    jre-openjkd # needed by libreoffice...
 
     ## Documents
-#    pandoc
-#    texlive-most
+    pandoc
+    texlive-most
     nextcloud-desktop
 #    remarkable-client
 #    libreoffice-fresh
