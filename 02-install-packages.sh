@@ -9,6 +9,9 @@ Packages=(
     snapd
     fonts-firacode
 
+    ## utils
+    bat ## needs 20.10
+
     ## fun
     cowsay
     lolcat
@@ -37,6 +40,7 @@ Packages=(
     ## Documents
 #    pandoc
 #    texlive-most
+    nextcloud-desktop
 #    remarkable-client
 #    libreoffice-fresh
 #    zotero
