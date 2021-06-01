@@ -11,6 +11,7 @@ Packages=(
 
     ## utils
     bat ## needs 20.10
+    mlocate
 
     ## fun
     cowsay
